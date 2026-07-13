@@ -1,8 +1,8 @@
 # Change Log
 
-## 4.0.1
+## 5.0.0
 
-### Patch Changes
+### Major Changes
 
 - Updated dependencies [79d28820]
   - @open-wc/semantic-dom-diff@0.21.0
